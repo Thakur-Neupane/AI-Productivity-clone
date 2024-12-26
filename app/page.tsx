@@ -3,7 +3,7 @@
 export default function Home() {
   return (
    <main className="">
-<h1>Lets build an AI Productivity app</h1>
+<h1>Getting started with nextjs course </h1>
    </main>
   );
 }
